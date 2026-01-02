@@ -7,13 +7,13 @@
   <br/>
 
   <a href="https://YOUR_WEBSITE">
-    <img alt="website" src="https://img.shields.io/badge/website-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img alt="WebSite" src="https://martozai.xyz" />
   </a>
   <a href="https://t.me/YOUR_TG">
-    <img alt="telegram" src="https://img.shields.io/badge/telegram-0b1220?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="DiscordBot" src="https://img.shields.io/badge/telegram-0b1220?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img alt="discord" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="DiscordServer" src="https://discord.gg/tDRUXHQUHa" />
   </a>
 
 </div>
