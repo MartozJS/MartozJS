@@ -9,10 +9,10 @@
     <img alt="WebSite" src="https://img.shields.io/badge/website-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://discord.gg/tDRUXHQUHa">
-    <img alt="DiscordServer" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord Server" src="https://img.shields.io/badge/discord%20server-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://discord.com/oauth2/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fdiscord%2Fcallback&scope=identify%20guilds&client_id=1276718135487234140">
-    <img alt="DiscordBot" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="Discord Bot" src="https://img.shields.io/badge/discord%20bot-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 <div align="center">
 
