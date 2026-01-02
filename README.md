@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=YOUR_NAME&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Tools%20%7C%20Node.js&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=Martoz&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Tools%20%7C%20Node.js&descAlignY=55"
     alt="header"
   />
 
