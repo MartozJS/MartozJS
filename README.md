@@ -1,19 +1,18 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=YOUR_NAME&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Tools%20%7C%20Node.js&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=Martoz&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Tools%20%7C%20Node.js&descAlignY=55"
     alt="header"
   />
-
   <br/>
 
   <a href="https://martozai.xyz">
     <img alt="WebSite" src="https://img.shields.io/badge/website-0b1220?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="[https://t.me/YOUR_TG](https://discord.gg/tDRUXHQUHa)">
-    <img alt="DiscordServer" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=DiscordServer&logoColor=white" />
+    <img alt="DiscordServer" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="[https://discord.com/users/YOUR_DISCORD_ID](https://discord.com/oauth2/authorize?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A3000%2Fauth%2Fdiscord%2Fcallback&scope=identify%20guilds&client_id=1276718135487234140)">
-    <img alt="DiscordBot" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=DiscordBot&logoColor=white" />
+    <img alt="DiscordBot" src="https://img.shields.io/badge/discord-0b1220?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 <div align="center">
 
