@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=Martoz&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Js%20%7C%20Node.js&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6475EC,100:22c55e&text=YOUR_NAME&fontColor=ffffff&fontAlignY=35&desc=Dashboard%20%7C%20Discord%20Tools%20%7C%20Node.js&descAlignY=55"
     alt="header"
   />
 
@@ -22,19 +22,36 @@
 
 ## About
 
-> **Привет!** Я **Martoz**. Делаю discord Ботов, и веб панели
->
-> **Фокус**: Node.js, интеграции, дашборды, автоматизация.
+<div align="center">
+
+  <img alt="discord dashboards" src="https://img.shields.io/badge/discord%20dashboards-0b1220?style=for-the-badge&labelColor=0b1220&color=6475EC" />
+  <img alt="nodejs" src="https://img.shields.io/badge/node.js-0b1220?style=for-the-badge&labelColor=0b1220&color=22c55e" />
+  <img alt="uiux" src="https://img.shields.io/badge/ui%2Fux-0b1220?style=for-the-badge&labelColor=0b1220&color=60a5fa" />
+  <img alt="automation" src="https://img.shields.io/badge/automation-0b1220?style=for-the-badge&labelColor=0b1220&color=f59e0b" />
+
+</div>
+
+- **Привет!** Я **YOUR_NAME** — делаю панели/инструменты для Discord‑проектов.
+- **Что люблю**: чистый UI, стабильную логику, понятные детали (логи/магазин/команды/тикеты).
+- **Фокус**: Node.js, интеграции, дашборды, автоматизация.
 
 ---
 
 ## Frame (как на сайте)
 
-> ┌───────────────────────────────────────────────────────────┐  
-> │ **Status**: building / shipping / improving               │  
-> │ **Now**: dashboard features, UX polish, stability fixes   │  
-> │ **Open to**: collabs, small tools, UI/automation ideas    │  
-> └───────────────────────────────────────────────────────────┘
+<div align="center">
+
+  <img alt="status" src="https://img.shields.io/badge/status-building-0b1220?style=for-the-badge&labelColor=0b1220&color=6475EC" />
+  <img alt="now" src="https://img.shields.io/badge/now-dashboard%20features%20%26%20polish-0b1220?style=for-the-badge&labelColor=0b1220&color=22c55e" />
+  <img alt="open to" src="https://img.shields.io/badge/open%20to-collabs%20%7C%20ideas-0b1220?style=for-the-badge&labelColor=0b1220&color=60a5fa" />
+
+</div>
+
+|  |  |
+|---|---|
+| **Status** | `building / shipping / improving` |
+| **Now** | dashboard features • UX polish • stability |
+| **Open to** | collabs • small tools • UI/automation ideas |
 
 ---
 
