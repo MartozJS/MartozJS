@@ -19,7 +19,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=22c55e" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=facc15" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=fb7185" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=60a5fa" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0b1220?style=for-the-badge&logo=mysql&logoColor=93c5fd" />
 
 </div>
